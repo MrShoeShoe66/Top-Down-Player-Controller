@@ -1,0 +1,12 @@
+{
+    "name": "Top Down Player Controller",
+    "description": "A top down player controller built with Python and TypeScript",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "main.py"
+    ],
+    "preferredEditor": "pyprj"
+}
