@@ -15,3 +15,7 @@ This is a top down controler for the micro:bit interface
 (A) : Right
 
 (B) : Down
+
+## Files
+
+`main.py` and `main.ts` are the source files 
