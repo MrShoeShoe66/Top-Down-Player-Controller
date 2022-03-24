@@ -16,6 +16,12 @@ This is a top down controler for the micro:bit interface
 
 (B) : Down
 
-## Files
+## Types
 
-`main.py` and `main.ts` are the source files 
+In the ./source/ folder the 
+./souce/multiplayer/ folder alows multiplayer play but 
+./source/singleplayer/ contains the singleplayer version
+
+## Author
+
+This was created by MrShoe
